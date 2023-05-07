@@ -1,9 +1,0 @@
-/.classpath
-/.project
-/.pydevproject
-/.idea
-
-build/
-*.swp
-*.class
-*.DS_Store
